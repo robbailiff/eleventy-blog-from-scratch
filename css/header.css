@@ -1,0 +1,47 @@
+header.masthead {
+    margin-bottom: 50px;
+    background: no-repeat center center;
+    background-attachment: scroll;
+    position: relative;
+    background-color: #757575;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.5;
+    background-color: #727E7A;
+}
+.site-heading {
+    padding: 200px 0 150px;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+.site-heading h1 {
+    font-size: 50px;
+    margin-top: 0;
+}
+.subheading {
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 1.1;
+    display: block;
+    margin: 10px 0 0;
+}
+@media only screen and (min-width: 768px) {
+    h1 {
+        font-size: 55px;
+    }
+    .subheading {
+        font-size: 30px;
+    }
+    header.masthead .site-heading {
+        padding: 200px 0;
+   }
+    header.masthead .site-heading h1 {
+        font-size: 80px;
+   }
+}

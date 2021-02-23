@@ -1,0 +1,36 @@
+.post-preview > a {
+    color: #212529;
+}
+.post-preview a:focus, .post-preview a:hover {
+    text-decoration: none;
+    color: #0085a1;
+}
+.post-title {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.post-subtitle {
+    font-weight: 300;
+    margin: 0 0 10px;
+    font-family: Lora,'Times New Roman',serif;
+}
+.post-meta {
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 0;
+    color: #757575;
+}
+.post-meta > a {
+    text-decoration: none;
+    color: #212529;
+}
+.post-meta > a:focus, .post-meta > a:hover {
+    text-decoration: underline;
+    color: #0085a1;
+}
+@media only screen and (min-width: 768px) {
+    .post-title {
+        font-size: 36px;
+   }
+}
