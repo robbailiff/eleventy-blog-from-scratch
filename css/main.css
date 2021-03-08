@@ -43,3 +43,23 @@ body {
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
   }
+
+  .btn-primary {
+    background-color: #0085a1;
+    border-color: #0085a1;
+}
+
+.btn-primary:hover {
+  background-color: #212529;
+}
+
+.btn {
+    font-size: 14px;
+    font-weight: 800;
+    padding: 15px 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 0;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}

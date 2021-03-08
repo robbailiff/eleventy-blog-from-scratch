@@ -2,6 +2,7 @@ header.masthead {
     margin-bottom: 50px;
     background: no-repeat center center;
     background-attachment: scroll;
+    background-size: cover;
     position: relative;
     background-color: #757575;
 }
