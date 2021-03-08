@@ -4,7 +4,7 @@
 
 This project was started as a way for me to better understand the Eleventy Static Site Generator. I had to deploy an Eleventy site to Netlify as part of part of [The Coders Guild](https://thecodersguild.org.uk/) JAMStack Web and App Development Course using the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) starter template. I wanted to understand how the site generator worked but the source code was difficult to understand so I decided I should start from scratch and build it from the ground up. To focus on the building of the site rather than the aesthetics, I decided to use Bootstrap to add a basic layout to it quickly and added based the styling on a bootstrap example blog. You can view the theme at the [live example](https://startbootstrap.com/previews/clean-blog) or on the [GitHub repository](https://github.com/StartBootstrap/startbootstrap-clean-blog).
 
-Check out my live site: https://robbailiff.github.io/eleventy-blog-from-scratch/
+Check out my live site: https://eleventy-blog-from-scratch.netlify.app/
 
 ## What did I learn?
 
